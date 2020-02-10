@@ -1,13 +1,13 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', 'AIzaSyCVkRcSiF0KmLCwmoo4edtw0vnSykCvFcc');
+define('APIKEY', 'AIzaSyA6fi8-YPOocSi1gMIdg4f46kCjSkIHW6I');
 define('GJ_CODE', 'US');
-define('SITE_NAME', 'y2b');
-define('TITLENAME', 'y2b');
+define('SITE_NAME', '疯狂的小鳗鱼');
+define('TITLENAME', '疯狂的小鳗鱼');
 define('EN2DEKEY', '32123wwerwer323tgfdgds');
-define('EMAIL', '1334347212@qq.com');
+define('EMAIL', '275796575@qq.com');
 define('NAME', 'admin');
-define('PASSWORD', 'admin');
+define('PASSWORD', '5685105000Lm');
 define('LOGINHTML', '<!DOCTYPE html>
 <html lang="en">
 <head>
